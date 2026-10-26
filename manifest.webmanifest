@@ -1,0 +1,25 @@
+{
+  "name": "Bybel Leesrooster",
+  "short_name": "Bybel",
+  "description": "Lees die Bybel, een hoofstuk op ’n slag.",
+  "lang": "af",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7ef",
+  "theme_color": "#b5651d",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
